@@ -1,0 +1,20 @@
+body {
+    font-family:'Trebuchet MS';
+    text-align: center;
+    background-color: aquamarine;
+}
+img {
+    border: 3px solid blue;
+    border-radius: 50px;    
+}
+p {
+    font-size: 20px;
+}
+#btn {
+    background-color: bisque;
+    color: brown;
+    font-weight: bold;
+    border: 2px dotted brown;
+    border-radius: 30px;
+    padding:5px;
+}
